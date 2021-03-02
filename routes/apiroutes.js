@@ -36,7 +36,7 @@ router.post("/api/workouts", ({ body }, res) => {
 });
 
 router.get("/api/workouts/range", (req, res) => {
-    Workout.find({})
+    Workout.find({}).sort({ _id: -1 }).limit(7)
     .then(dbWorkout => {
         res.json(dbWorkout);
     })
