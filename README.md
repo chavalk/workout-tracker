@@ -2,7 +2,7 @@
 
 ## Description
 
-Workout Tracker is an application designed to allow users to keep track of their workouts and the exercised in each workout. As soon as the user navigates to the website, they are presented with the main page. Which shows the user information about the most recent workout, it gives an option to continue the most  recent workout, to add a new workout or to navigate to the Dashboard. Below is a screenshot of the landing page.
+Workout Tracker is an application designed to allow users to keep track of their workouts and the exercises in each workout. As soon as the user navigates to the website, they are presented with the main page. Which shows the user information about the most recent workout, it gives an option to continue the most  recent workout, to add a new workout or to navigate to the Dashboard. Below is a screenshot of the landing page.
 
 ![workout-tracker](./public/assets/images/landing.png)
 
