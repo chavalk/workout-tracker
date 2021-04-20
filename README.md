@@ -1,58 +1,46 @@
-# workout-tracker
+# Workout-Tracker
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-Workout Tracker is an application designed to allow users to keep track of their workouts and the exercises in each workout. As soon as the user navigates to the website, they are presented with the main page. Which shows the user information about the most recent workout, it gives an option to continue the most  recent workout, to add a new workout or to navigate to the Dashboard. Below is a screenshot of the landing page.
+An application designed to allow users to keep track of their workouts and the exercises in each workout.
 
-![workout-tracker](./public/assets/images/landing.png)
+## What the project does
 
-The user can click on the Continue Workout button to navigate to a page where an additional exerices can be entered for the current workout. Below is a screenshot of that page.
+The project allows the user to enter workouts and exercised for each workot. As soon as the user navigates to the website, they are presented with the main page. The main page shows the user information about the most recent workout, it gives an option to continue the most  recent workout, to add a new workout or to navigate to the Dashboard. Below is a GIF showing the navigation of the application.
 
-![workout-tracker](./public/assets/images/continue-workout.png)
+![workout-tracker](./public/assets/images/workout-tracker.gif)
 
-On this page the user can click Add Exercise to add the new exercise to the workout or complete can also be clicked to complete the workout. If the user clicks on New Workout on the lading page, a new workout is created and the user is presented with the same page listed above but the exercise is added to a new workout document in the database. Below is a screenshot.
+## Why is the project useful
 
-![workout-tracker](./public/assets/images/new-workout.png)
+The project was a great experience for using MongoDB to store the user data. For users, the application provides an easy way to add new workouts, add new exercises to existing workouts, and to see the progress made by looking at the charts.
 
-Last but not least, the user can navigate to the Dashboard page to see charts about the seven most recent workouts. Below is a screenshot of the page.
+## How users can get started with the project
 
-![workout-tracker](./public/assets/images/dashboard.png)
-
-## Table of Contents
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
-
-## Installation
-
-If the repository is cloned, simply run npm install in the terminal of your choice to install all the needed npm packages. As an alternative, you can navigate to the deployed application to see the application in action.
+Simply navigate to the deployed version of the application listed below to interact with it.
 
 https://floating-savannah-96499.herokuapp.com/
 
-## Usage
+## What technologies were used with the project
 
-The application serves users who seek an easy way to keep track of their workouts and exercises in each of their workouts.
+* HTML5
+* CSS3
+* Mongoose ORM
+* MongoDB
+* jQuery
+* Express.js
+* Path
+* Heroku
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Contributing
-
-Contributions are currently not accepted for this application.
-
-## Tests
-
-There is no testing available within the application.
-
-## Questions
+## Where users can get help with your project
 
 My GitHub username is: chavalk
 
 Link: https://github.com/chavalk
 
 If you have additional questions, feel free to reach me at chavalk@hotmail.com.
+
+## Who maintains and contributes to the project
+
+Currently I'm the only person maintaining and contributing to the project.
