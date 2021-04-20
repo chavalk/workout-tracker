@@ -32,6 +32,7 @@ https://floating-savannah-96499.herokuapp.com/
 * JavaScript
 * Express.js
 * Path
+* Node.js
 * Heroku
 
 ## Where users can get help with your project
