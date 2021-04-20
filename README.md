@@ -29,6 +29,7 @@ https://floating-savannah-96499.herokuapp.com/
 * Mongoose ORM
 * MongoDB
 * jQuery
+* JavaScript
 * Express.js
 * Path
 * Heroku
